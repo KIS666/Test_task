@@ -27,7 +27,7 @@
 
 ---
 
-## [Task 2](https://github.com/KIS666/Test_task/blob/main/Program.cs)
+## [Task 2](https://github.com/KIS666/Test_task/blob/new/Program.cs)
 
 [output](https://github.com/KIS666/Test_task/blob/main/output.json)
 
